@@ -1,0 +1,35 @@
+<svg width="651.524475" height="651.524414" viewBox="0 0 651.524 651.524" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_8_10_dd" x="0.000000" y="0.000000" width="651.524475" height="651.524414" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="23.3333" result="effect_layerBlur_1"/>
+		</filter>
+		<linearGradient x1="-62.264542" y1="-184.712402" x2="260.689209" y2="249.511948" id="paint_linear_8_10_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#015172"/>
+			<stop offset="0.490000" stop-color="#FF603D"/>
+			<stop offset="1.000000" stop-color="#FF93D4"/>
+		</linearGradient>
+		<radialGradient gradientTransform="rotate(19.6564) scale(596.178 596.178)" cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_8_10_1" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FF93D4"/>
+			<stop offset="1.000000" stop-color="#FF93D4" stop-opacity="0.000000"/>
+		</radialGradient>
+		<radialGradient gradientTransform="rotate(172.449) scale(479.57 479.57)" cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_8_10_2" gradientUnits="userSpaceOnUse">
+			<stop offset="0.019611" stop-color="#FF603D"/>
+			<stop offset="1.000000" stop-color="#FF603D" stop-opacity="0.000000"/>
+		</radialGradient>
+		<radialGradient gradientTransform="rotate(-61.5174) scale(305.325 305.325)" cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_8_10_3" gradientUnits="userSpaceOnUse">
+			<stop offset="0.019611" stop-color="#79A0FF"/>
+			<stop offset="1.000000" stop-color="#79A0FF" stop-opacity="0.000000"/>
+		</radialGradient>
+	</defs>
+	<g filter="url(#filter_8_10_dd)" style="mix-blend-mode:normal">
+		<circle id="gradient elipse" r="255.698746" transform="matrix(-0.965926 -0.258819 0.258819 -0.965926 325.762 325.762)" fill="url(#paint_linear_8_10_0)" fill-opacity="1.000000"/>
+		<circle id="gradient elipse" r="255.698746" transform="matrix(-0.965926 -0.258819 0.258819 -0.965926 325.762 325.762)" fill="url(#paint_radial_8_10_1)" fill-opacity="1.000000"/>
+		<circle id="gradient elipse" r="255.698746" transform="matrix(-0.965926 -0.258819 0.258819 -0.965926 325.762 325.762)" fill="url(#paint_radial_8_10_2)" fill-opacity="1.000000"/>
+		<circle id="gradient elipse" r="255.698746" transform="matrix(-0.965926 -0.258819 0.258819 -0.965926 325.762 325.762)" fill="url(#paint_radial_8_10_3)" fill-opacity="1.000000"/>
+	</g>
+</svg>

@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Neue Machina";
+    transition: 0.8s;
+}
+
+html,
+body {
+    height: 100%;
+    background: var(--heade-bg-color);
+    /* height: 2000px; */
+}
